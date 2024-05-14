@@ -1,7 +1,7 @@
 # chrome-plugin
 
 #### 介绍
-manifest_version 3 版本的全功能示例，支持 google edge 
+manifest_version 2 版本的全功能示例，支持 google edge 
 
 #### 软件架构
 google chrome 浏览器插件示例，全部基础功能的demo
